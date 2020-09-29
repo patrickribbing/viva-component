@@ -1,0 +1,8 @@
+{
+    "domain": "viva",
+    "name": "ViVa Wind and Water Information",
+    "documentation": "https://github.com/patrickribbing/viva-component",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": []
+}

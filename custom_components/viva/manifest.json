@@ -2,7 +2,10 @@
     "domain": "viva",
     "name": "ViVa Wind and Water Information",
     "documentation": "https://github.com/patrickribbing/viva-component",
+    "issue_tracker": "https://github.com/patrickribbing/viva-component/issues",
     "dependencies": [],
-    "codeowners": [],
-    "requirements": []
+    "codeowners": ["@patrickribbing"],
+    "version": "v1.1.0",
+    "requirements": [],
+    "iot_class": "cloud_polling"
 }

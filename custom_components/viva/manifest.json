@@ -5,7 +5,7 @@
     "issue_tracker": "https://github.com/patrickribbing/viva-component/issues",
     "dependencies": [],
     "codeowners": ["@patrickribbing"],
-    "version": "v1.1.0",
+    "version": "v1.2.0",
     "requirements": [],
     "iot_class": "cloud_polling"
 }
